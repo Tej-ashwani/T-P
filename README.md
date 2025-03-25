@@ -1,1 +1,1 @@
-# T-P
+# Training and Placement(T&P)
