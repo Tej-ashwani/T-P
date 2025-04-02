@@ -1,9 +1,9 @@
 # Training and Placement(T&P)
-📌 Project Overview
+📌# Project Overview
 
 The Training & Placement Management System is a web-based platform designed to streamline the placement process for students, faculty, and recruiters. It centralizes all placement-related activities, reducing reliance on scattered communication channels like WhatsApp and emails.
 
-✨ Features
+✨ # Features
 
 Student Registration & Profile Management
 
@@ -21,7 +21,7 @@ Event Notifications & Reminders
 
 Resume Upload & Verification
 
- Tech Stack
+# Tech Stack
 
 Frontend: React.js, Tailwind CSS
 
@@ -31,7 +31,7 @@ Database: MongoDB
 
 Authentication: JWT (JSON Web Token)
 
-🚀 Installation & Setup
+🚀 # Installation & Setup
 
 Prerequisites:
 
